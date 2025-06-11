@@ -30,3 +30,7 @@ Decision-makers can quickly identify underperforming areas, adjust procing and o
 - Weekend Campaigns- Give offers to boost weekend occupancy
 - Customer Segmentation- Tailor pricing/offers by business u=vs Leisure travelers
 - Analyze Cancellation- Under why people cancel.Is it pricing or experince?
+
+
+## AtilQ Grands Hospitality Dashboard
+[Dashboard Preview]()
