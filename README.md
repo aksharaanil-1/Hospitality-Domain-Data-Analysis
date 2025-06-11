@@ -33,4 +33,4 @@ Decision-makers can quickly identify underperforming areas, adjust procing and o
 
 
 ## AtilQ Grands Hospitality Dashboard
-[Dashboard Preview]()
+[Dashboard Preview](https://github.com/aksharaanil-1/Hospitality-Domain-Data-Analysis/blob/main/Hospitality_Dashboard.png)
