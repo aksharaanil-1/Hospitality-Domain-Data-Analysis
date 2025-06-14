@@ -32,5 +32,9 @@ Decision-makers can quickly identify underperforming areas, adjust procing and o
 - Analyze Cancellation- Under why people cancel.Is it pricing or experince?
 
 
+#### ER Diagram
+
+[ER-Diagram](https://github.com/aksharaanil-1/Hospitality-Domain-Data-Analysis/blob/main/ER_Diagram.png)
+
 ## AtilQ Grands Hospitality Dashboard
 [Dashboard Preview](https://github.com/aksharaanil-1/Hospitality-Domain-Data-Analysis/blob/main/Hospitality_Dashboard.png)
