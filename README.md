@@ -2,7 +2,7 @@
 
 #### Objective:
 
-Build a powerful, easy-to-use Power BI dasboard that gives real-time insights and supports better decision-making.This dashboard can be used by data analysts to take better business and pricing strategies to improve decision-making.
+Built a powerful, easy-to-use Power BI dasboard that gives real-time insights and supports better decision-making.This dashboard can be used by data analysts to take better business and pricing strategies to improve decision-making.
 
 This project was built under the guidance of Dhaval Patel Sir and Himanshu Vadivel Sir.This project is a result of Codebasics Challenge #1 [Codebasics Challenge1].(https://codebasics.io/resources/end-to-end-data-analyst-project)
 
